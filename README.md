@@ -5,3 +5,5 @@ These Projects are:
 <br>
 1.Prime/Non-Prime Number
 <br>
+2.Emoji Convertor
+<br>
